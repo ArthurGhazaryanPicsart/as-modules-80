@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            
+            <TextView
+                android:id="@+id/module23wiringactivity_main4module23Wiringstring40"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/module23Wiringstring4"
+                />
+            <TextView
+                android:id="@+id/module23wiringactivity_main4module23Implstring41"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/module23Implstring4"
+                />
+            <TextView
+                android:id="@+id/module23wiringactivity_main4module23Apistring42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/module23Apistring4"
+                />
+            
+            <ImageView
+                android:id="@+id/module23wiringactivity_main4module23wiringimage40"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/module23wiringimage4"
+                />
+            <ImageView
+                android:id="@+id/module23wiringactivity_main4module23implimage41"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/module23implimage4"
+                />
+            <ImageView
+                android:id="@+id/module23wiringactivity_main4module23apiimage42"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/module23apiimage4"
+                />
+            
+        </LinearLayout>
+    </ScrollView>

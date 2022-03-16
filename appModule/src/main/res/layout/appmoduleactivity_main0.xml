@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+            
+            <TextView
+                android:id="@+id/appmoduleactivity_main0appModulestring00"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/appModulestring0"
+                />
+            
+            <ImageView
+                android:id="@+id/appmoduleactivity_main0appmoduleimage00"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/appmoduleimage0"
+                />
+            
+            <include
+                layout="@layout/module17wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module53wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module34wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module37wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module55wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module5wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module49wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module3wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module23wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module48wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module71wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module58wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module21wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module70wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module13wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module1wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module26wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module18wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module33wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module32wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module78wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module28wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module50wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module22wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module46wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module52wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module43wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module11wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module68wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module61wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module60wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module6wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module72wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module73wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module54wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module15wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module24wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module76wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module51wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module0wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module59wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module2wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module42wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module14wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module38wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module57wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module30wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module7wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module75wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module27wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module40wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module35wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module47wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module20wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module69wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module44wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module62wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module77wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module74wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module63wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module79wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module56wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module25wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module4wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module12wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module10wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module9wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module29wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module65wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module41wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module64wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module67wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module39wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module36wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module19wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module8wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module45wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module16wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module31wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+            <include
+                layout="@layout/module66wiringactivity_main4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            
+        </LinearLayout>
+    </ScrollView>
